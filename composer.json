@@ -1,6 +1,6 @@
 {
-    "name": "vendor_name/package_name",
-    "description": "description_text",
+    "name": "branderati/genderReader",
+    "description": "Get gender based on name",
     "minimum-stability": "stable",
     "license": "proprietary",
     "authors": [
